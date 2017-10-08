@@ -110,6 +110,7 @@ const char *colorname[] = {
  */
 unsigned int defaultfg = 12;
 unsigned int defaultbg = 8;
+unsigned int alpha = 220;
 unsigned int defaultcs = 14;
 unsigned int defaultrcs = 15;
 
